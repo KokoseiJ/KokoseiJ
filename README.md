@@ -26,5 +26,5 @@ DOPE - Mostly oldies, lots of David Bowie/Queen/Elton John, bunch of Kero Kero B
 [![Youtube](/assets/Youtube.png)](https://www.youtube.com/playlist?list=PL-SgDZ9d8OvSHURxcAt89Gy9UbW7zd7YC)
 Weeb mode while studying - I don't think I have to explain this one. Very weeby. lots of IA.
 
-[![Nicovideo](/assets/niconico.webp)](https://www.nicovideo.jp/mylist/61011276)
+[![Nicovideo](/assets/nicovideo.webp)](https://www.nicovideo.jp/mylist/61011276)
 Nicovideo Mylist - Yeah, It's nicovideo, what do you expect? I reached the limit so I can't update this anymore.
