@@ -21,10 +21,13 @@ Dual monitor is really comfortable, if you ask me.
 ## Playlists
 As I said, My musical taste is 1/3 Old Rock, 1/3 Old Pop and 1/3 Weeb. If you somehow happen to have a same taste as I am, and interested in my playlists, Here you go..
 [![Spotify](/assets/Spotify.png)](https://open.spotify.com/playlist/33prRxZdNzGK9MuNNnuCsJ?si=si2d2f8zQCCBoPnQsj2Ytw)
+
 DOPE - Mostly oldies, lots of David Bowie/Queen/Elton John, bunch of Kero Kero Bonitos, and few Japanese songs.
 
 [![Youtube](/assets/Youtube.png)](https://www.youtube.com/playlist?list=PL-SgDZ9d8OvSHURxcAt89Gy9UbW7zd7YC)
+
 Weeb mode while studying - I don't think I have to explain this one. Very weeby. lots of IA.
 
 [![Nicovideo](/assets/nicovideo.webp)](https://www.nicovideo.jp/mylist/61011276)
+
 Nicovideo Mylist - Yeah, It's nicovideo, what do you expect? I reached the limit so I can't update this anymore.
