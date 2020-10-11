@@ -15,7 +15,7 @@ I know that I'm not really good at writing codes and my codes have tons of probl
 Thank you, have a great day.
 
 ## Developement Environment
-1. Distro: Fedora 33 Cinnamon Spin
+1. Distro: [Fedora 33 Cinnamon Spin](https://spins.fedoraproject.org/en/cinnamon/)
 2. IDE: [Sublime Text 3](https://www.sublimetext.com/), [IntelliJ IDEA Community](https://www.jetbrains.com/idea/)
 
 Dual monitor is really comfortable, if you ask me.
