@@ -14,13 +14,11 @@ Thank you, have a great day.
 
 ## Developement Environment
 1. Distro: [Fedora 34 Cinnamon Spin](https://spins.fedoraproject.org/en/cinnamon/)
-2. IDE: [Sublime Text 3](https://www.sublimetext.com/), [IntelliJ IDEA Community](https://www.jetbrains.com/idea/)
-
-2-monitor setup is really comfortable, if you ask me.
+2. IDE: [Sublime Text 4](https://www.sublimetext.com/), [IntelliJ IDEA Community](https://www.jetbrains.com/idea/)
 
 ## Works
-1. [DiscordBot](https://github.com/KokoseiJ/DiscordBot) - A.K.A Kyoko Kirigiri Bot, Designed to support dynamically adding commands using separate script files. Module codes are dirty and Not documented. You would be able to try to do something with it, though.
+1. [NicoBot](https://github.com/KokoseiJ/NicoBot) - WIP Discord API Library for Python, threading-based. designed to be easy-to-use, flexible API wrapper.
 2. [NicoPlayer](https://github.com/KokoseiJ/NicoPlayer) - A simple player that lets you play songs from NicoVideo in a commandline. Very simple and basic, but I'm planning to completely renovate it.
-3. [RHYTHMATICA](https://github.com/KokoseiJ/RHYTHMATICA) - A simple Rhythm game I've been working on. I stopped developing it due to lack of time, and the code quality is utter gibberish.
+3. [DiscordBot](https://github.com/KokoseiJ/DiscordBot) - A.K.A Kyoko Kirigiri Bot, Designed to support dynamically adding commands using separate script files. Will be migrated from Discord.py to [DiscordAPI](https://github.com/KokoseiJ/NicoBot) as soon as the development finishes.
 
 *There's always more to come!*
