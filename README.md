@@ -1,4 +1,5 @@
 # Kokosei J
+[![Github Stat](https://github-readme-stats.vercel.app/api?username=KokoseiJ&theme=dracula&show_icons=true)](https://github.com/KokoseiJ)
 ## Introduction
 Hello, I'm Kokosei J.
 
